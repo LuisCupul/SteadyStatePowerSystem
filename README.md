@@ -1,2 +1,3 @@
 # StedyState_PowerSystems
- Texto original A un-official basic library of codes developed in power system steady state analysis lecture at CINVESTAV - Guadalajara
+A basic Library about Steady State Power System Analysis
+## Introduction
