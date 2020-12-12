@@ -1,3 +1,3 @@
 # StedyState_PowerSystems
-A basic Library about Steady State Power System Analysis
+A basic Python Library about Steady State Power System Analysis
 ## Introduction
