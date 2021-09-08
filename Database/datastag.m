@@ -62,3 +62,10 @@ mac_con = [ ...
 % 7 1.0 1.0 0.0 0.0;
 % 8 1.0 1.0 0.0 0.0;
 % 9 1.0 1.0 0.0 0.0];
+
+
+
+
+%writematrix(bus, 'datastag.xlsx', 'Sheet','bus');
+%writematrix(line, 'datastag.xlsx', 'Sheet','line');
+writematrix(mac_con, 'datastag.xlsx', 'Sheet','mac_con');
